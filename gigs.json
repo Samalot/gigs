@@ -220,5 +220,10 @@
   { "id": 221, "name": "Heart of Gold", "date": "2024", "support": 223, "genres": ["rock", "post-hardcore"] },
   { "id": 222, "name": "Rain City Drive", "date": "2024", "support": 223, "genres": ["rock", "post-hardcore"] },
   { "id": 223, "name": "Dayseeker", "date": "2024", "genres": ["rock", "post-hardcore"] },
-  { "id": 224, "name": "The Ogretones", "date": "2024", "genres": ["pop", "rock"] }
+  { "id": 224, "name": "The Ogretones", "date": "2024", "genres": ["pop", "rock"] },
+  { "id": 225, "name": "Bullet For My Valentine", "date": "2025", "support": 226, "genres": ["heavy metal", "hard rock"] },
+  { "id": 226, "name": "Trivium", "date": "2025", "genres": ["heavy metal", "hard rock"] },
+  { "id": 227, "name": "Jazz Emu", "date": "2024", "genres": ["alternative indie"] },
+  { "id": 228, "name": "Florance Black", "date": "2025", "support": 229, "genres": ["alternative metal", "hard rock"] },
+  { "id": 229, "name": "Tremonti", "date": "2025", "genres": ["alternative metal", "hard rock"] }
 ]
