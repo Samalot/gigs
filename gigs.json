@@ -225,5 +225,9 @@
   { "id": 226, "name": "Trivium", "date": "2025", "genres": ["heavy metal", "hard rock"] },
   { "id": 227, "name": "Jazz Emu", "date": "2024", "genres": ["alternative indie"] },
   { "id": 228, "name": "Florance Black", "date": "2025", "support": 229, "genres": ["alternative metal", "hard rock"] },
-  { "id": 229, "name": "Tremonti", "date": "2025", "genres": ["alternative metal", "hard rock"] }
+  { "id": 229, "name": "Tremonti", "date": "2025", "genres": ["alternative metal", "hard rock"] },
+  { "id": 230, "name": "unpeople", "date": "2025", "support": 231, "genres": ["metal"] },
+  { "id": 231, "name": "VUKOVI", "date": "2025", "genres": ["punk pop", "metalcore"] },
+  { "id": 232, "name": "PROJECTOR", "date": "2025", "support": 233, "genres": ["alternative rock"] },
+  { "id": 233, "name": "Cleopatrick", "date": "2025", "genres": ["alternative rock"] }
 ]
