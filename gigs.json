@@ -230,5 +230,6 @@
   { "id": 231, "name": "VUKOVI", "date": "2025", "genres": ["punk pop", "metalcore"] },
   { "id": 232, "name": "PROJECTOR", "date": "2025", "support": 233, "genres": ["alternative rock"] },
   { "id": 233, "name": "Cleopatrick", "date": "2025", "genres": ["alternative rock"] },
-  { "id": 234, "name": "Ghost", "date": "2025", "genres": ["hard rock"] }
+  { "id": 234, "name": "Ghost", "date": "2025", "genres": ["hard rock"] },
+  { "id": 235, "name": "DoFlame", "date": "2025", "genres": ["hardcore", "punk"] }
 ]
