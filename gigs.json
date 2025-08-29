@@ -267,5 +267,10 @@
   { "id": 267, "name": "Bullet For My Valentine", "date": "2025", "event": "Download XXII", "genres": ["heavy metal", "hard rock"], "occurrence": 2 },
   { "id": 268, "name": "Steel Panther", "date": "2025", "event": "Download XXII", "genres": ["glam metal"] },
   { "id": 269, "name": "Korn", "date": "2025", "event": "Download XXII", "genres": ["alternative metal", "nu metal"] },
-  { "id": 270, "name": "Me First and the Gimme Gimmes", "date": "2025", "event": "Download XXII", "genres": ["punk rock"] }
+  { "id": 270, "name": "Me First and the Gimme Gimmes", "date": "2025", "event": "Download XXII", "genres": ["punk rock"] },
+  { "id": 271, "name": "Van Morrison", "date": "2025", "event": "BST Hyde Park", "genres": ["folk", "rock"] },
+  { "id": 272, "name": "Van Morrison", "date": "2025", "event": "BST Hyde Park", "genres": ["folk", "rock"] },
+  { "id": 273, "name": "Neil Young", "date": "2025", "event": "BST Hyde Park", "genres": ["folk", "rock"] },
+  { "id": 274, "name": "Polar", "date": "2025", "support": 275, "genres": ["metalcore"] },
+  { "id": 275, "name": "The Browning", "date": "2025", "genres": ["electronicore", "metalcore"] }
 ]
