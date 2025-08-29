@@ -1,5 +1,5 @@
 [
-  { "id": 1, "name": "Elton John", "date": "?", "genres": ["rock", "pop rock"] },
+  { "id": 1, "name": "Elton John", "date": "2003", "genres": ["rock", "pop rock"] },
   { "id": 2, "name": "V", "date": "2004", "event": "Junior Great North Run Party", "genres": ["pop"] },
   { "id": 3, "name": "S Club 8", "date": "2004", "event": "Junior Great North Run Party", "genres": ["pop", "bubblegum"]  },
   { "id": 4, "name": "Peter Andre", "date": "2004", "event": "Junior Great North Run Party", "genres": ["pop", "r&b"] },
