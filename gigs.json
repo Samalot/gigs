@@ -274,7 +274,7 @@
   { "id": 274, "name": "Polar", "date": "2025", "support": 275, "genres": ["metalcore"] },
   { "id": 275, "name": "The Browning", "date": "2025", "genres": ["electronicore", "metalcore"] },
   { "id": 276, "name": "Montaigne", "date": "2025", "support": 277, "genres": ["art pop"] },
-  { "id": 277, "name": "Daði Freyr", "date": "2025", "genres": ["pop"] },
+  { "id": 277, "name": "Daði Freyr", "date": "2025", "genres": ["pop"], "occurrence": 2 },
   { "id": 278, "name": "Redwood", "date": "2025", "support": 279, "genres": ["alternative rock"] },
   { "id": 279, "name": "TX2", "date": "2025", "genres": ["emo", "pop punk"] },
   { "id": 280, "name": "Snake Eyes", "date": "2025", "support": 282, "genres": ["grit pop"] },
