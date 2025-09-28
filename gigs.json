@@ -279,5 +279,7 @@
   { "id": 279, "name": "TX2", "date": "2025", "genres": ["emo", "pop punk"] },
   { "id": 280, "name": "Snake Eyes", "date": "2025", "support": 282, "genres": ["grit pop"] },
   { "id": 281, "name": "The Xcerts", "date": "2025", "support": 282, "genres": ["alternative rock"] },
-  { "id": 282, "name": "Dinosaur Pile-Up", "date": "2025", "genres": ["alternative rock"] }
+  { "id": 282, "name": "Dinosaur Pile-Up", "date": "2025", "genres": ["alternative rock"] },
+  { "id": 283, "name": "The Virginmarys", "date": "2025", "support": 282, "genres": ["rock", "punk rock"] },
+  { "id": 284, "name": "Florence Black", "date": "2025", "genres": ["rock"] }
 ]
