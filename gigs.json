@@ -321,7 +321,7 @@
   { "id": 321, "name": "Rain City Drive", "date": "2026", "support": 322, "genres": ["rock", "post-hardcore"], "occurrence": 2 },
   { "id": 322, "name": "Honey Revenge", "date": "2026", "genres": ["pop rock", "pop punk"], "occurrence": 2 },
   { "id": 323, "name": "Glu", "date": "2026", "support": 324, "genres": ["electronic rock", "rap"] },
-  { "id": 324, "name": "The BLue Stones", "date": "2026", "genres": ["blues rock"] },
+  { "id": 324, "name": "The Blue Stones", "date": "2026", "genres": ["blues rock"] },
   { "id": 325, "name": "Make them Suffer", "date": "2026", "support": 327, "genres": ["metalcore"] },
   { "id": 326, "name": "Dayseeker", "date": "2026", "support": 327, "genres": ["rock", "post-hardcore"], "occurrence": 2 },
   { "id": 327, "name": "Motionless in White", "date": "2026", "genres": ["metalcore"] }
