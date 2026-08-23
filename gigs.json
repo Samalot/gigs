@@ -389,5 +389,7 @@
   { "id": 439, "name": "Phantogram", "date": "2026", "genres": ["electronic rock", "dream pop", "indietronica"] },
   { "id": 440, "name": "Return to Dust", "date": "2026", "support": 442, "genres": ["grunge", "alternative rock"] },
   { "id": 441, "name": "Chevelle", "date": "2026", "support": 442, "genres": ["alternative metal", "alternative rock"] },
-  { "id": 442, "name": "Breaking Benjamin", "date": "2026", "genres": ["alternative metal", "post-grunge"] }
+  { "id": 442, "name": "Breaking Benjamin", "date": "2026", "genres": ["alternative metal", "post-grunge"] },
+  { "id": 443, "name": "TR/ST", "support": 444, "date": "2026", "genres": ["darkwave", "synth-pop"] },
+  { "id": 444, "name": "AFI", "date": "2026", "genres": ["punk rock", "hardcore punk"] }
 ]
